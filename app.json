@@ -4,9 +4,9 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/fokoamartin/NO-FOKIN-BAN-BY-XDA",
-  "success_url": "https://github.com/fokoamartin/NO-FOKIN-BAN-BY-XDA",
-  "website": "https://github.com/fokoamartin/NO-FOKIN-BAN-BY-XDA",
+  "repository": "https://github.com/fokoamartin/NO-FOKIN",
+  "success_url": "https://github.com/fokoamartin/NO-FOKIN",
+  "website": "https://github.com/fokoamartin/NO-FOKIN",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
